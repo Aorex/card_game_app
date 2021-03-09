@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 -- Hello, this is Adam from Atom Lab X 👨🏾‍💻
@@ -17,4 +18,11 @@ C Ya on the other side! 👋🏾
 
 Side note: 
 You can find me on Youtube @ Atom Lab X
+=======
+- Hello, this is Adam from Atom Lab 👋🏾
+
+-- This Project was one of my very first projects to practice Swift.
+
+-- I have a tutorial on my channel for this app you can check (channel name is: Atom Lab)
+>>>>>>> d0bb1724627537c791353f40da93f41b7af8fba4
 
